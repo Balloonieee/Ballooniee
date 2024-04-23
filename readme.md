@@ -75,6 +75,7 @@
 <br/>
 
 <br/>
+
 ## Other Skills and Expertise
 
 Software Architecture,
@@ -92,6 +93,7 @@ Mobile Application Development (iOS and Android),
 Machine Learning Integration,
 Embedded Systems Development,
 Internet Protocols (HTTPS,HTTP,UDP,TCP)
+
 <br/>
 
 <br/>
