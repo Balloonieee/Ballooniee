@@ -73,9 +73,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Projects
-[![Realm-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Realm-Bot&repo=docs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Realm-Bot)
 [![Gametest API Wrapper](https://github-readme-stats.vercel.app/api/pin/?username=Balloonieee&repo=GTAPI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Balloonieee/GTAPI)
 [![Gametest Command Handler](https://github-readme-stats.vercel.app/api/pin/?username=notbeer&repo=Minecraft-Gametest-Command-Handler&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/notbeer/Minecraft-Gametest-Command-Handler)
+[![Realm-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Realm-Bot&repo=docs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Realm-Bot)
 
 <br/>
 
