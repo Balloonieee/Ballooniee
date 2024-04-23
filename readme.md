@@ -84,7 +84,6 @@
 
 <p align="center">
   <a href="https://github.com/balloonieee">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balloonieee&theme=radical" alt="Ali Lateef's GitHub Contribution"/>
   </a>
 </p>
 
