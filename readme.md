@@ -73,9 +73,6 @@
 ![Python](https://img.shields.io/badge/python-3.8-blue?logo=python)
 
 <br/>
-
-<br/>
-
 ## Other Skills and Expertise
 
 Software Architecture\n
@@ -93,9 +90,6 @@ Mobile Application Development (iOS and Android)\n
 Machine Learning Integration\n
 Embedded Systems Development\n
 Internet Protocols (HTTPS,HTTP,UDP,TCP)
-
-<br/>
-
 <br/>
 
 ## Projects
