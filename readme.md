@@ -78,21 +78,21 @@
 
 ## Other Skills and Expertise
 
-Software Architecture
-Object-Oriented Programming (OOP)
-Functional Programming
-Responsive Web Development
-API Design, Integration, and Use
-Database Management
-Cloud Services Deployment
-Performance Optimization
-Version Control Systems (Git)
-Scripting and Automation
-Cross-Platform Development
-Mobile Application Development (iOS and Android)
-Machine Learning Integration
-Embedded Systems Development
-Internet Protocols (HTTPS,HTTP,UDP,TCP
+Software Architecture\n
+Object-Oriented Programming (OOP)\n
+Functional Programming\n
+Responsive Web Development\n
+API Design, Integration, and Use\n
+Database Management\n
+Cloud Services Deployment\n
+Performance Optimization\n
+Version Control Systems (Git)\n
+Scripting and Automation\n
+Cross-Platform Development\n
+Mobile Application Development (iOS and Android)\n
+Machine Learning Integration\n
+Embedded Systems Development\n
+Internet Protocols (HTTPS,HTTP,UDP,TCP)
 
 <br/>
 
