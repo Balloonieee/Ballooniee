@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a highschool student who loves computers and programs from <b>Canada</b> 」
+    「 I am a highschool student who loves computers and programming, from <b>Canada</b> 」
     <br>
     <br>
   </samp>
@@ -71,6 +71,28 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3.8-blue?logo=python)
+
+<br/>
+
+<br/>
+
+## Other Skills and Expertise
+
+Software Architecture
+Object-Oriented Programming (OOP)
+Functional Programming
+Responsive Web Development
+API Design, Integration, and Use
+Database Management
+Cloud Services Deployment
+Performance Optimization
+Version Control Systems (Git)
+Scripting and Automation
+Cross-Platform Development
+Mobile Application Development (iOS and Android)
+Machine Learning Integration
+Embedded Systems Development
+Internet Protocols (HTTPS,HTTP,UDP,TCP
 
 <br/>
 
