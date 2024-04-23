@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Ali Lateef</a></b>
+                <b><a target="_blank" href="https://github.com/balloonieee">Ali Lateef</a></b>
         </samp>
 </h3>
 
@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a highschool student who loves computers and programs <b>Canada</b> 」
+    「 I am a highschool student who loves computers and programs from <b>Canada</b> 」
     <br>
     <br>
   </samp>
@@ -36,7 +36,7 @@
 
 <p align="center">
  <a href="https://github.com/balloonieee" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ali Lateef" />
 </p>
 <br />
 
@@ -88,7 +88,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/balloonieee">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balloonieee&theme=radical" alt="Ali Lateef's GitHub Contribution"/>
   </a>
 </p>
