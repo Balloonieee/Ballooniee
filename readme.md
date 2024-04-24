@@ -16,7 +16,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=balloonieee&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Self+Taught;Back+%26+Front+End;Always+Learning+New+Concepts;3.5+Years+Experience;JavaScript%2C+TypeScript%2C+Python" alt="https://github.com/balloonieee" /></a>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -25,6 +24,9 @@
         </samp>
 </h3>
 
+<p align="center"> 
+<a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Self+Taught;Back+%26+Front+End;Always+Learning+New+Concepts;3.5+Years+Experience;JavaScript%2C+TypeScript%2C+Python" alt="https://github.com/balloonieee" /></a>
+</p>
 
 <p align="center"> 
   <samp>
