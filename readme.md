@@ -1,18 +1,13 @@
-<!--
 <h2 align="center">
   Welcome to the home of Ali Lateef !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
 <p align="center">
   <a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught
   
   %20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
- -->
  
 <p align="center"> 
 <a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Self+Taught;Back+%26+Front+End;Always+Learning+New+Concepts;3.5+Years+Experience;JavaScript%2C+TypeScript%2C+Python" alt="https://github.com/balloonieee" /></a>
