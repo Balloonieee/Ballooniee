@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center"> 
-<a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Self+Taught;Back+%26+Front+End;Always+Learning+New+Concepts;3.5+Years+Experience;JavaScript%2C+TypeScript%2C+Python" alt="https://github.com/balloonieee" /></a>
+<a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&duration=3000&pause=1000&color=589FF7&center=true&vCenter=true&random=false&width=435&lines=3.5+Years+Experience;Self+Taught;Back+%26+Front+End;Always+Learning+New+Concepts;JavaScript%2C+TypeScript%2C+Python%2C+C%2B%2B" alt="Ali Lateef" /></a>
 </p>
   
 <a href="https://komarev.com/ghpvc/?username=balloonieee">
