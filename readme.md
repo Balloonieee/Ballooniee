@@ -22,7 +22,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a highschool student who loves computers and programming, from <b>Canada</b> 」
+    「 I am a highschool student from <b>Canada</b> who loves computers and programming 」
     <br>
     <br>
   </samp>
