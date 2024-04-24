@@ -7,10 +7,16 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught
+  
+  %20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
+ 
+<p align="center"> 
+<a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Self+Taught;Back+%26+Front+End;Always+Learning+New+Concepts;3.5+Years+Experience;JavaScript%2C+TypeScript%2C+Python" alt="https://github.com/balloonieee" /></a>
+</p>
 
 <a href="https://komarev.com/ghpvc/?username=balloonieee">
   <img align="right" src="https://komarev.com/ghpvc/?username=balloonieee&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -24,9 +30,6 @@
         </samp>
 </h3>
 
-<p align="center"> 
-<a href="https://github.com/balloonieee"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Self+Taught;Back+%26+Front+End;Always+Learning+New+Concepts;3.5+Years+Experience;JavaScript%2C+TypeScript%2C+Python" alt="https://github.com/balloonieee" /></a>
-</p>
 
 <p align="center"> 
   <samp>
